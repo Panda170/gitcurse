@@ -1,0 +1,9 @@
+git log file_name: muestra el historial de un archivo
+git dif version_code version_code: diferencia entre 2 archivos
+git reset version_code:  (--soft | --hard)
+git checkout version_code file_name: trae un archivo de ese commit
+
+git status: muestra el estado actual de cambios en stagin y untraket
+
+git add ( . | file_name): agrega todos o un archivo al stagin
+git commit -m "mensaje"
