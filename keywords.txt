@@ -1,0 +1,3 @@
+-v: hacer un camondo vervoso
+fetch: traer cosas
+push: enviar cosas
