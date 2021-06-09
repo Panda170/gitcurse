@@ -7,6 +7,8 @@ git status: muestra el estado actual de cambios en stagin y untraket
 
 git add ( . | file_name): agrega todos o un archivo al stagin
 git commit -m "mensaje"
-
+oñjnsñlnmfs
+gfsdf
+sd
 
 git remote add origin httt git url
